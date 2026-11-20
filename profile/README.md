@@ -47,8 +47,7 @@ Genelde aynı masada oturmayan alanların kesişiminde veri odaklı araştırmal
       Bazı bakteriler kalsiyum karbonat çöktürerek betondaki çatlakları kapatabilir.
       Bu konudaki literatür çok sayıda türe ve farklı laboratuvar koşullarına dağılmış durumda,
       bu yüzden sonuçları karşılaştırmak zor. Raporlanan beton performansını bakteri suşları ve
-      deney koşullarıyla eşleştiren <b>açık ve normalize bir veri seti</b> oluşturuyoruz.<br><br>
-      <sub>📍 Durum: veri toplama &nbsp;·&nbsp; 📦 Çıktılar DOI ile burada yayınlanacak</sub>
+      deney koşullarıyla eşleştiren <b>açık ve normalize bir veri seti</b> oluşturuyoruz.
     </td>
   </tr>
 </table>
@@ -110,8 +109,7 @@ We run data-driven research at the intersection of fields that rarely sit at the
       Some bacteria can precipitate calcium carbonate and seal cracks in concrete.
       The literature on this process is scattered across many species and lab conditions,
       which makes results hard to compare. We are building an <b>open, normalized dataset</b>
-      that links reported concrete performance to bacterial strains and experimental conditions.<br><br>
-      <sub>📍 Status: data collection &nbsp;·&nbsp; 📦 Outputs will be released here with a DOI</sub>
+      that links reported concrete performance to bacterial strains and experimental conditions.
     </td>
   </tr>
 </table>
