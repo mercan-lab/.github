@@ -3,8 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-active-FF6F61?style=flat-square" alt="Status: active">
-  <img src="https://img.shields.io/badge/founded-2026-0B2545?style=flat-square" alt="Founded 2026">
+  <b>English</b> · <a href="https://github.com/mercan-lab/.github/blob/main/profile/README.tr.md">Türkçe</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-active-FD6755?style=flat-square" alt="Status: active">
+  <img src="https://img.shields.io/badge/founded-2026-052448?style=flat-square" alt="Founded 2026">
   <img src="https://img.shields.io/badge/based%20in-T%C3%BCrkiye-13315C?style=flat-square" alt="Based in Türkiye">
   <img src="https://img.shields.io/badge/science-open%20%26%20reproducible-2A9D8F?style=flat-square" alt="Open and reproducible science">
 </p>
@@ -56,12 +60,12 @@ We run data-driven research at the intersection of fields that rarely sit at the
 
 | | Member | Background | Focus |
 |:-:|---|---|---|
-| 🏗️ | **Ayberk Korkmaz**<br><sub>[@Ayberkrk](https://github.com/Ayberkrk) · [ORCID](https://orcid.org/0009-0009-0699-090X)</sub> | Civil Engineering<br><sub>Eskişehir Osmangazi University</sub> | Project lead; concrete performance and engineering interpretation |
-| 🧬 | **Gökçe** | Bioengineering<br><sub>İstanbul Medeniyet University</sub> | Bacterial taxonomy, mechanisms and biosafety |
-| 💻 | **Elif** | Computer Engineering<br><sub>Bursa Technical University</sub> | Data pipeline, statistics and modelling |
+| 🏗️ | **Ayberk Korkmaz**<br><sub>[GitHub](https://github.com/Ayberkrk) · [LinkedIn](https://www.linkedin.com/in/ayberk-korkmaz-269939378/) · [ORCID](https://orcid.org/0009-0009-0699-090X)</sub> | Civil Engineering<br><sub>Eskişehir Osmangazi University</sub> | Project lead; concrete performance and engineering interpretation |
+| 🧬 | **Gökçe Kaya**<br><sub>[LinkedIn](https://www.linkedin.com/in/g%C3%B6k%C3%A7e-kaya-96809338a/)</sub> | Bioengineering<br><sub>İstanbul Medeniyet University</sub> | Bacterial taxonomy, mechanisms and biosafety |
+| 💻 | **Elif Çin**<br><sub>[LinkedIn](https://www.linkedin.com/in/elif-%C3%A7in-27241938a/)</sub> | Computer Engineering<br><sub>Bursa Technical University</sub> | Data pipeline, statistics and modelling |
 | ✍️ | **Gökalp** | Italian Language and Literature<br><sub>Ankara University</sub> | Terminology, annotation guidelines and English editing |
 
-**Faculty advisor:** Dr. Kadir Berkhan Akalın, Department of Civil Engineering, Eskişehir Osmangazi University
+**Faculty advisor:** Dr. Kadir Berkhan Akalın, Department of Civil Engineering, Eskişehir Osmangazi University · [LinkedIn](https://www.linkedin.com/in/kbakalin/)
 
 ## 🧭 How we work
 
@@ -74,7 +78,3 @@ We run data-driven research at the intersection of fields that rarely sit at the
 
 Interested in our work or in collaborating? Open an issue in one of our repositories
 or reach out to a team member above.
-
-<p align="center">
-  <sub>Mercan Lab · An interdisciplinary student research group from Türkiye</sub>
-</p>
