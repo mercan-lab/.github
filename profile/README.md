@@ -63,12 +63,22 @@ Genelde aynı masada oturmayan alanların kesişiminde veri odaklı araştırmal
 
 **Akademik danışman:** Dr. Öğr. Üyesi Kadir Berkhan Akalın, İnşaat Mühendisliği Bölümü, Eskişehir Osmangazi Üniversitesi · [LinkedIn](https://www.linkedin.com/in/kbakalin/)
 
-### 🧭 Nasıl çalışıyoruz?
+### 🧭 İlkelerimiz
 
-- **Varsayılan olarak açık.** Veri, kod ve yöntemler çalışma hazır olduğunda yayınlanır.
-- **Tekrarlanabilir.** Çıktılarımızdaki her sayı bir kaynak dosyaya ya da bir betiğe dayanır.
-- **İnsan kontrolünde yapay zekâ.** Okuma ve kodlama desteği için yapay zekâ asistanları kullanıyoruz; hiçbir şey insan kontrolünden geçmeden verimize ya da kodumuza girmez ve makalelerimizde yapay zekâ kullanımını beyan ederiz.
-- **İhtiyatlı iddialar.** "İlk" yerine "bildiğimiz kadarıyla" deriz.
+#### Fayda
+Laboratuvarın dışında da önemi olan sorular üzerine çalışırız. Veri setlerimiz ve sonuçlarımız onlara ihtiyaç duyan mühendisler ve araştırmacılar içindir; çalışmamızı onlara ne kadar yardımcı olduğuyla değerlendiririz.
+
+#### Açıklık
+Verimizi, kodumuzu ve yöntemlerimizi başkaları da kontrol edebilsin ve üzerine inşa edebilsin diye paylaşırız. Bir çalışma, ancak başkası da tekrarlayabildiğinde tamamlanmış sayılır.
+
+#### Bilimsel dürüstlük
+Bulduğumuzu, belirsizlikleri ve olumsuz sonuçları da dahil ederek raporlarız. Yayımladığımız her değer kaynağına kadar izlenebilir. Çalışmalarımızda yapay zekâ araçlarını kullandığımızda çıktıyı bir ekip üyesi doğrular ve bu kullanımı makalelerimizde beyan ederiz.
+
+#### Sorumluluk
+Çalışmamız canlı organizmaları kapsıyor ve mühendislik kararlarına yön verebilir. Bilinen sağlık riski taşıyan organizmaları dışarıda bırakır, tahminlerimizin sınırlarını açıkça belirtir ve sonuçlarımızın olduğundan daha kesin okunmasına izin vermeyiz.
+
+#### Disiplinler arası iş birliği
+Sorularımızı tek bir alan tek başına cevaplayamaz. Gruptaki her disiplini eşit derecede gerekli görür, birbirimizin dilini öğrenir ve her katkıyı açıkça sahibine atfederiz.
 
 ### 📫 İletişim
 
@@ -125,12 +135,22 @@ We run data-driven research at the intersection of fields that rarely sit at the
 
 **Faculty advisor:** Dr. Kadir Berkhan Akalın, Department of Civil Engineering, Eskişehir Osmangazi University · [LinkedIn](https://www.linkedin.com/in/kbakalin/)
 
-## 🧭 How we work
+## 🧭 Our principles
 
-- **Open by default.** Data, code and methods are published once a study is ready.
-- **Reproducible.** Every number in our outputs traces back to a source file or a script.
-- **Human-verified AI.** We use AI assistants for reading and coding support; nothing enters our data or code without a human check, and we disclose AI use in our papers.
-- **Careful claims.** We write "to our knowledge" rather than "the first".
+### Usefulness
+We study questions that matter outside the lab. Our datasets and results are meant to be used by engineers and researchers who need them, and we judge our work by how much it helps them.
+
+### Openness
+We share our data, code and methods so that others can check our work and build on it. A study is complete only when someone else can repeat it.
+
+### Scientific integrity
+We report what we find, including uncertainty and negative results. Every value we publish can be traced to its source. When we use AI tools in our work, a team member verifies the output and we disclose the use in our papers.
+
+### Responsibility
+Our work involves living organisms and could inform engineering decisions. We exclude organisms with known health risks, state the limits of our predictions clearly, and leave no room for our results to be read as more certain than they are.
+
+### Collaboration across disciplines
+No single field can answer our questions alone. We treat each discipline in the group as equally necessary, learn each other's language, and give every contributor clear credit for their work.
 
 ## 📫 Get in touch
 
