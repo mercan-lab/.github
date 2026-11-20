@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-labelledby="title desc">
+  <title id="title">Mercan Lab</title>
+  <desc id="desc">A stylized coral branch next to the name Mercan Lab, an interdisciplinary student research group.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B2545"/>
+      <stop offset="1" stop-color="#13315C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="320" rx="24" fill="url(#bg)"/>
+
+  <!-- faint reef dots -->
+  <g fill="#FF6F61" opacity="0.08">
+    <circle cx="1120" cy="70" r="46"/>
+    <circle cx="1205" cy="250" r="70"/>
+    <circle cx="1010" cy="280" r="28"/>
+  </g>
+
+  <!-- coral -->
+  <g fill="none" stroke="#FF6F61" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" transform="translate(110 30)">
+    <path d="M130 262 V170"/>
+    <path d="M130 200 C130 170 95 160 90 120 V80"/>
+    <path d="M90 130 C90 112 62 108 58 84"/>
+    <path d="M130 185 C130 150 168 145 172 110 V62"/>
+    <path d="M172 120 C172 100 202 96 206 74"/>
+    <path d="M130 170 V40"/>
+    <path d="M100 262 H160"/>
+  </g>
+  <g fill="#FF6F61" transform="translate(110 30)">
+    <circle cx="90" cy="80" r="11"/>
+    <circle cx="58" cy="84" r="11"/>
+    <circle cx="172" cy="62" r="11"/>
+    <circle cx="206" cy="74" r="11"/>
+    <circle cx="130" cy="40" r="11"/>
+  </g>
+  <g fill="#0B2545" transform="translate(110 30)">
+    <circle cx="90" cy="80" r="4.5"/>
+    <circle cx="58" cy="84" r="4.5"/>
+    <circle cx="172" cy="62" r="4.5"/>
+    <circle cx="206" cy="74" r="4.5"/>
+    <circle cx="130" cy="40" r="4.5"/>
+  </g>
+
+  <!-- wordmark -->
+  <g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="400" y="150" fill="#FFFFFF" font-size="76" font-weight="700" letter-spacing="1">Mercan Lab</text>
+    <text x="402" y="200" fill="#FFB4AC" font-size="26" font-weight="500">Interdisciplinary student research group</text>
+    <text x="402" y="240" fill="#AFC3DA" font-size="21">Construction materials · Biology · Computing · Language</text>
+  </g>
+</svg>
